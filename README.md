@@ -1,6 +1,8 @@
 # ¡Hola! 👋 Soy Nanashi
 
 ### Español:
+![no_background](https://github.com/nanashi-eth/nanashi-eth/assets/148278933/300f29cd-98aa-4ea2-aad7-2c356ed32409)
+
 
 - 👨‍💻 Desarrollador de software y entusiasta de la ciberseguridad.
 - 🌱 Actualmente estoy ampliando mis conocimientos en seguridad informática y mejorando mis habilidades de programación.
