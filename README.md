@@ -1,7 +1,6 @@
 # ¡Hola! 👋 Soy Nanashi
 
 ### Español:
-![no_background](https://github.com/nanashi-eth/nanashi-eth/assets/148278933/300f29cd-98aa-4ea2-aad7-2c356ed32409)
 
 
 - 👨‍💻 Desarrollador de software y entusiasta de la ciberseguridad.
@@ -22,3 +21,9 @@
 - 📫 You can contact me via email at [jose98_rbb@hotmail.com](mailto:jose98_rbb@hotmail.com) or visit my [website](in progress...).
 
 Feel free to check out my repositories and projects! I'm always open to new collaborations and exciting challenges.
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
