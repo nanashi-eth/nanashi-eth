@@ -22,8 +22,4 @@
 
 Feel free to check out my repositories and projects! I'm always open to new collaborations and exciting challenges.
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width={1000})
