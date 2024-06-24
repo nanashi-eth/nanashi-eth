@@ -22,4 +22,4 @@
 
 Feel free to check out my repositories and projects! I'm always open to new collaborations and exciting challenges.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width={1000px}&count={10})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width={800}&count={10})
