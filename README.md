@@ -30,6 +30,15 @@ Feel free to check out my repositories and projects! I'm always open to new coll
 
 # Activity Overview
 <!--START_SECTION:waka-->
+
+```rust
+From: 03 June 2024 - To: 03 July 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ###
