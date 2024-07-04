@@ -27,7 +27,7 @@
 
 Feel free to check out my repositories and projects! I'm always open to new collaborations and exciting challenges.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnAzb2U3YTF3eXl6NWlwejBicGF1Mzc3Zms4MjExY3llOTZjamhzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" width="25"> A little more about me...  
 
 ```python
 nanashi = CSProfile(
