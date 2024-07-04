@@ -1,5 +1,9 @@
 # ¡Hola! 👋 Soy Nanashi
 
+[![Twitter: nanashi-eth](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/nanashi-eth)
+[![Linkedin: nanashi-eth](https://img.shields.io/badge/-nanashi-eth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nanashi-eth/)](https://www.linkedin.com/in/nanashi-eth/)
+[![GitHub nanashi-eth](https://img.shields.io/github/followers/nanashi-eth?label=follow&style=social)](https://github.com/nanashi-eth)
+
 ### Español:
 
 
