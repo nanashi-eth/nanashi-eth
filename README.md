@@ -28,9 +28,9 @@
 Feel free to check out my repositories and projects! I'm always open to new collaborations and exciting challenges.
 
 
-### Activity Overview
-<!--START_SECTION:Activity Overview-->
-<!--END_SECTION:Activity Overview-->
+# Activity Overview
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###
 <div align="center">
