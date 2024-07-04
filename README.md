@@ -38,7 +38,6 @@ nanashi = CSProfile(
     architecture=["microservices", "model-view-controller", "layered"],
     design_patterns=["MVVM", "MVC", "DAO", "Repository Pattern", "Singleton Pattern", "Factory Pattern"],
     experience={"years": "2+", "current_position": "Junior Developer"},
-    challenge="I am doing the #100DaysOfCode challenge focused on React and TypeScript"
 )
 
 ```
