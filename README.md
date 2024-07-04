@@ -27,8 +27,10 @@
 
 Feel free to check out my repositories and projects! I'm always open to new collaborations and exciting challenges.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+### Activity Overview
+<!--START_SECTION:Activity Overview-->
+<!--END_SECTION:Activity Overview-->
 
 ###
 <div align="center">
