@@ -27,6 +27,25 @@
 
 Feel free to check out my repositories and projects! I'm always open to new collaborations and exciting challenges.
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  
+
+```python
+nanashi = {
+    "pronouns": ["he", "him", "his"],
+    "code": ["Javascript", "Typescript", "HTML", "CSS", "C#", "Python", "Java", "PHP", "SQL"],
+    "frameworks": ["Angular", "Vite", "Spring", "Hibernate", "Odoo"],
+    "tools": ["Git", "Docker", "Nmap", "Metasploit"],
+    "architecture": ["microservices", " model-view-controller", " layered"],
+    "design_patterns": ["MVVM", "MVC", "DAO", "Repository Pattern", "Singleton Pattern", "Factory Pattern"],
+    "experience": {
+        "years": 2+, 
+        "current_position": "Junior Developer" 
+    },
+    "challenge": "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+
+```
+
 
 # Activity Overview
 <!--START_SECTION:waka-->
