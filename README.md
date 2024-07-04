@@ -22,12 +22,8 @@
 
 Feel free to check out my repositories and projects! I'm always open to new collaborations and exciting challenges.
 
-```txt
-TypeScript   15 hrs 22 mins  ███████████████████████▓░   95.28 %
-JavaScript   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-CSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###
 <div align="center">
