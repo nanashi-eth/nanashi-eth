@@ -115,4 +115,4 @@ Vue.js   0 secs          ██████████████████�
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=1000&count=10)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=300&count=3)
