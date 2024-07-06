@@ -45,8 +45,8 @@ nanashi = CSProfile(
 
 ```
 
-
-# Activity Overview
+<details open> 
+<summary><h2>Activity Overview</h2></summary>
 <!--START_SECTION:waka-->
 
 ```rust
@@ -58,6 +58,8 @@ Vue.js   0 secs          ██████████████████�
 ```
 
 <!--END_SECTION:waka-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nanashi-eth&theme=material-palenight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ###
 <p>
@@ -87,6 +89,7 @@ Vue.js   0 secs          ██████████████████�
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+</details>
 
 ###
 
