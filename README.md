@@ -59,7 +59,7 @@ Vue.js   0 secs          ██████████████████�
 
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nanashi-eth&theme=material-palenight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=EB545400)](https://git.io/streak-stats)
 
 ###
 <p>
