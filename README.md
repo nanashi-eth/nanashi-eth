@@ -1,9 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=FF6E96&random=false&width=435&lines=Software+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=FF6E96&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Cybersecurity+Enthusiast" />
+</p>    
+<p  align="center">
+<a href="https://twitter.com/nanashi-eth">
+<img src="https://img.shields.io/twitter/follow/nanashi-eth?style=social" alt="twitter" /></a>
+<a href="(https://www.linkedin.com/in/nanashi-eth/">
+<img src="https://img.shields.io/badge/nanashi--eth-blue?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnanashi-eth%2F" alt="linkedin" /></a>
+<a href="https://github.com/nanashi-eth">
+<img src="https://img.shields.io/github/followers/nanashi-eth?label=follow&style=social" alt="github" /></a>
+</p>
 
-[![Twitter: nanashi-eth](https://img.shields.io/twitter/follow/nanashi-eth?style=social)](https://twitter.com/nanashi-eth)
-[![Linkedin: nanashi-eth](https://img.shields.io/badge/nanashi--eth-blue?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnanashi-eth%2F
-)](https://www.linkedin.com/in/nanashi-eth/)
-[![GitHub nanashi-eth](https://img.shields.io/github/followers/nanashi-eth?label=follow&style=social)](https://github.com/nanashi-eth)
 
 <img align='right' src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/86126009-06bd-49cb-8aef-a19fd53755aa" width="200">
 
