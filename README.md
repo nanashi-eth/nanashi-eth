@@ -1,3 +1,4 @@
+<img align='right' src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/86126009-06bd-49cb-8aef-a19fd53755aa" width="200">
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=FF6E96&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Cybersecurity+Enthusiast" />
 </p>    
@@ -11,30 +12,21 @@
 </p>
 
 
-<img align='right' src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/86126009-06bd-49cb-8aef-a19fd53755aa" width="200">
 
 
 ### Español:
 
-
-- 👨‍💻 Desarrollador de software y entusiasta de la ciberseguridad.
-- 🌱 Actualmente estoy ampliando mis conocimientos en seguridad informática y mejorando mis habilidades de programación.
-- 💡 Me interesa encontrar soluciones eficientes y optimizadas para los problemas de programación.
-- 💬 Si tienes alguna idea interesante en la que podamos colaborar, ¡házmelo saber!
-- 📫 Puedes contactarme a través de mi correo electrónico [jose98_rbb@hotmail.com](mailto:jose98_rbb@hotmail.com) o visitando mi [sitio web](https://nanashi-eth.github.io/).
-
-¡No dudes en echar un vistazo a mis repositorios y proyectos! Siempre estoy abierto a nuevas colaboraciones y desafíos emocionantes.
+- 👨‍💻 Desarrollador de software y especialista en ciberseguridad.
+- 🌱 Mejorando habilidades en programación y seguridad informática.
+- 📫 Contacto: [jose98_rbb@hotmail.com](mailto:jose98_rbb@hotmail.com) | [Mi sitio web](https://nanashi-eth.github.io/)
 
 
 ### English:
 
-- 👨‍💻 Software developer and cybersecurity enthusiast.
-- 🌱 I'm currently expanding my knowledge in cybersecurity and honing my programming skills.
-- 💡 I'm interested in finding efficient and optimized solutions to programming problems.
-- 💬 If you have any interesting ideas to collaborate on, feel free to reach out!
-- 📫 You can contact me via email at [jose98_rbb@hotmail.com](mailto:jose98_rbb@hotmail.com) or visit my [website](https://nanashi-eth.github.io/).
+- 👨‍💻 Software developer and cybersecurity specialist.
+- 🌱 Enhancing programming and cybersecurity skills.
+- 📫 Contact: [jose98_rbb@hotmail.com](mailto:jose98_rbb@hotmail.com) | [My website](https://nanashi-eth.github.io/)
 
-Feel free to check out my repositories and projects! I'm always open to new collaborations and exciting challenges.
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnAzb2U3YTF3eXl6NWlwejBicGF1Mzc3Zms4MjExY3llOTZjamhzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" width="28"> A little more about me...  
 
@@ -68,9 +60,9 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=EB545400)](https://git.io/streak-stats)
-
+<p  align="center">
+<img src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=EB545400" />
+</p>
 ###
 <p>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -102,20 +94,6 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
     <img alt="vmware" src="https://img.shields.io/badge/VMware-%23607078?style=flat-square&logo=vmware&logoColor=white&labelColor=%23607078" />
     <img alt="metasploit" src="https://img.shields.io/badge/Metasploit-%232596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=%232596CD" />
     <img alt="nmap" src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/59ec24d6-a15b-4e5a-a9db-e375b86ae651" />
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
 </p>
 </details>
 
@@ -123,3 +101,8 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 ###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=300&count=3)
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
