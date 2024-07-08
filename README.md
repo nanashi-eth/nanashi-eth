@@ -1,7 +1,9 @@
 <img align='right' src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/86126009-06bd-49cb-8aef-a19fd53755aa" width="280" height="280">
 <p align="center">
+<img src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/2c94e4c9-7d7c-4edd-99c9-acd6bc852fab" width="200" /> <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=FF6E96&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Cybersecurity+Enthusiast" />
-</p>    
+
+
 <p  align="center">
 <a href="https://twitter.com/nanashi-eth">
 <img src="https://img.shields.io/twitter/follow/nanashi-eth?style=social" alt="twitter" /></a>
