@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/86126009-06bd-49cb-8aef-a19fd53755aa" width="200">
+<img align='right' src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/86126009-06bd-49cb-8aef-a19fd53755aa" width="280" height="280">
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=FF6E96&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Cybersecurity+Enthusiast" />
 </p>    
@@ -14,18 +14,24 @@
 
 
 
-### Español:
+<p align="left">
+    <strong>Español:</strong><br><br>
+    <samp>
+    - 👨‍💻 Desarrollador de software y especialista en ciberseguridad.<br>
+    - 🌱 Mejorando habilidades en programación y seguridad informática.<br>
+    - 📫 Contacto: <a href="mailto:jose98_rbb@hotmail.com">jose98_rbb@hotmail.com</a> | <a href="https://nanashi-eth.github.io/">Mi sitio web</a>
+  </samp>
+</p>
 
-- 👨‍💻 Desarrollador de software y especialista en ciberseguridad.
-- 🌱 Mejorando habilidades en programación y seguridad informática.
-- 📫 Contacto: [jose98_rbb@hotmail.com](mailto:jose98_rbb@hotmail.com) | [Mi sitio web](https://nanashi-eth.github.io/)
+<p align="left">
+    <strong>English:</strong><br><br>
+    <samp>
+    - 👨‍💻 Software developer and cybersecurity specialist.<br>
+    - 🌱 Enhancing programming and cybersecurity skills.<br>
+    - 📫 Contact: <a href="mailto:jose98_rbb@hotmail.com">jose98_rbb@hotmail.com</a> | <a href="https://nanashi-eth.github.io/">My website</a>
+    </samp>
+</p>
 
-
-### English:
-
-- 👨‍💻 Software developer and cybersecurity specialist.
-- 🌱 Enhancing programming and cybersecurity skills.
-- 📫 Contact: [jose98_rbb@hotmail.com](mailto:jose98_rbb@hotmail.com) | [My website](https://nanashi-eth.github.io/)
 
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnAzb2U3YTF3eXl6NWlwejBicGF1Mzc3Zms4MjExY3llOTZjamhzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" width="28"> A little more about me...  
@@ -40,7 +46,6 @@ nanashi = CSProfile(
     design_patterns=["MVVM", "MVC", "DAO", "Repository Pattern", "Singleton Pattern", "Factory Pattern"],
     experience={"years": "2+", "current_position": "Junior Developer"},
 )
-
 ```
 
 <details open> 
