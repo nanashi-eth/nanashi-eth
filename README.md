@@ -1,5 +1,3 @@
-<img align='right' src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/86126009-06bd-49cb-8aef-a19fd53755aa" width="280" height="280">
-
 <p align="center">
   <img src="https://github.com/nanashi-eth/nanashi-eth/assets/148278933/2c94e4c9-7d7c-4edd-99c9-acd6bc852fab" width="200" /> <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=FF6E96&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Cybersecurity+Enthusiast" />
@@ -16,6 +14,7 @@
   </a>
 </p>
 
+<h2>About me</h2>
 <p align="left">
   <strong>Español:</strong><br><br>
   <samp><b>
@@ -34,7 +33,7 @@
   </b></samp>
 </p><br><br>
 
-<img alt="gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnAzb2U3YTF3eXl6NWlwejBicGF1Mzc3Zms4MjExY3llOTZjamhzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" width="28"> <strong>A little more about me...</strong>
+<strong>A little more about me...</strong>
 
 ```python
 nanashi = CSProfile(
@@ -47,12 +46,11 @@ nanashi = CSProfile(
     experience={"years": "2+", "current_position": "Junior Developer"},
 )
 ```
-
+<h2>Get to Know Me Better</h2>
 <details>
-<summary><h2>Get to Know Me Better</h2></summary>
+<summary><samp>see/hide more</samp></summary>
 
-<details open>
-<summary><h2>Activity Overview</h2></summary>
+<h2>Activity Overview</h2>
 
 <!--START_SECTION:waka-->
 
@@ -71,13 +69,11 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img alt="stats" src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=false&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=EB545400" />
+  <img alt="stats" src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=EB545400" />
 </p>
 
 <br><br>
-
-<details open>
-  <summary><h2>Professional Profile and Stats</h2></summary>
+<h2>Professional Profile and Stats</h2>
   <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -111,9 +107,8 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
     <img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078?style=flat-square&logo=vmware&logoColor=white&labelColor=%23607078" />
   </p>
   <p>
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nanashi-eth&hide=stars,issues&show_icons=true&theme=dracula&border_radius=15" />
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nanashi-eth&hide=stars,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=EB545400&hide_border=true" />
   </p>
-</details>
 
 <br><br>
 
