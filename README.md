@@ -69,7 +69,7 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img alt="stats" src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=EB545400" />
+  <img alt="stats" src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117" />
 </p>
 
 <br><br>
@@ -107,7 +107,7 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
     <img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078?style=flat-square&logo=vmware&logoColor=white&labelColor=%23607078" />
   </p>
   <p>
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nanashi-eth&hide=stars,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=EB545400&hide_border=true" />
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nanashi-eth&hide=stars,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true" />
   </p>
 
 <br><br>
