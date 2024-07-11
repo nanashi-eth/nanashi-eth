@@ -107,7 +107,7 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
     <img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078?style=flat-square&logo=vmware&logoColor=white&labelColor=%23607078" />
   </p>
   <p>
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nanashi-eth&hide=stars,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true" />
+    <img alt="Github Stats" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=stars,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true" />
   </p>
 
 <br><br>
