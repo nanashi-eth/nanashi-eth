@@ -46,11 +46,15 @@ nanashi = CSProfile(
     experience={"years": "2+", "current_position": "Junior Developer"},
 )
 ```
-<h2>Get to Know Me Better</h2>
+## 
 <details>
-<summary><samp>see/hide more</samp></summary>
+<summary><samp><b>Get to Know Me Better </b></samp></summary>
 
 <h2>Activity Overview</h2>
+
+<p align="center">
+  <img alt="stats" src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117" />
+</p>
 
 <!--START_SECTION:waka-->
 
@@ -68,12 +72,8 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img alt="stats" src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117" />
-</p>
-
 <br><br>
-<h2>Professional Profile and Stats</h2>
+<h2>Skills and Stats</h2>
   <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -107,13 +107,27 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
     <img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078?style=flat-square&logo=vmware&logoColor=white&labelColor=%23607078" />
   </p>
   <p>
-    <img alt="Github Stats" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=stars,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true" />
+    <img alt="Github Stats" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true" />
     <img alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true" />
   </p>
 
 <br><br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=300&count=3)
+<p>
+  <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=550&count=3" />
+  <img width="550" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1164472761&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+
+  <pre align="center" width="1000"> 
+      💼 BSC @ UFMG • Back-end dev • Platform Engineer
+      💻 System programming languages • DevOps 
+      📖 Software architecture • Distributed systems
+      🎮 Music • Games • Anime • Code • Art
+      🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+  </pre>
+<p/>
+
+<br/>
+<br/>
 
 <p align="center">
   <samp>
