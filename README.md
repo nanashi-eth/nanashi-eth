@@ -108,6 +108,7 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
   </p>
   <p>
     <img alt="Github Stats" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=stars,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true" />
+    <img alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true" />
   </p>
 
 <br><br>
