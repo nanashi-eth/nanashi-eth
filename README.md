@@ -107,8 +107,10 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
     <img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078?style=flat-square&logo=vmware&logoColor=white&labelColor=%23607078" />
   </p>
   <p>
-    <img alt="Github Stats" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true" />
-    <img alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true" />
+    <img alt="Github Stats" width="400" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true" />
+    </br>
+    <img alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&column=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true" />
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=nanashi-eth" width="600" />
   </p>
 
 <br><br>
@@ -118,11 +120,13 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
   <img width="550" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1164472761&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
 
   <pre align="center" width="1000"> 
-      💼 BSC @ UFMG • Back-end dev • Platform Engineer
-      💻 System programming languages • DevOps 
-      📖 Software architecture • Distributed systems
+    <b>
+      💼 Full stack Dev • Cybersecurity Specialist
+      💻 System programming languages • DevOps
+      ⚽ Soccer • Volleyball • Running • Gym
       🎮 Music • Games • Anime • Code • Art
-      🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+      🐾 Luna & Ana  •  Curro  🦜
+    </b>
   </pre>
 <p/>
 
