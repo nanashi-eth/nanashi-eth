@@ -50,30 +50,22 @@ nanashi = CSProfile(
 <details>
 <summary><samp><b>Get to Know Me Better </b></samp></summary>
 
-<h2>Activity Overview</h2>
+<h2>Stats</h2>
 
 <p align="center">
-  <img alt="stats" src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117" />
+  <img alt="stats" height=200 src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117" />
+  <img alt="Github Stats" height=200 src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true&border_radius=0" />
+  <img  alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nanashi-eth&theme=dracula&bg_color=0D1117&hide_border=true" width="91%" />
 </p>
 
-<!--START_SECTION:waka-->
-
-```rust
-From: 11 June 2024 - To: 11 July 2024
-
-Total Time: 3 hrs 13 mins
-
-Markdown     1 hr 51 mins    ██████████████▒░░░░░░░░░░   57.66 %
-HTML         35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-CSS          31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Vue.js       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-```
-
-<!--END_SECTION:waka-->
+<p align ="center">
+    <img alt="Github Trophies" width=100% src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true" />
+    <img  width=100% src="https://stats.dooboo.io/api/github-stats-advanced?login=nanashi-eth" width="550" />
+</p>
 
 <br><br>
-<h2>Skills and Stats</h2>
+
+<h2>Skills</h2>
   <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -106,12 +98,24 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
     <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%23183A61?style=flat-square&logo=virtualbox&logoColor=white&labelColor=%23183A61" />
     <img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078?style=flat-square&logo=vmware&logoColor=white&labelColor=%23607078" />
   </p>
-  <p align ="center">
-    <img alt="Github Stats" width="400" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true" />
-    </br>
-    <img alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&column=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true" />
-    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=nanashi-eth" width="550" />
-  </p>
+
+<p align="center">
+<!--START_SECTION:waka-->
+
+```rust
+From: 11 June 2024 - To: 11 July 2024
+
+Total Time: 3 hrs 13 mins
+
+Markdown     1 hr 51 mins    ██████████████▒░░░░░░░░░░   57.66 %
+HTML         35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+CSS          31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+Vue.js       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+```
+
+<!--END_SECTION:waka-->
+</p>
 
 <br><br>
 
