@@ -103,7 +103,7 @@ nanashi = CSProfile(
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 July 2024 - To: 31 July 2024
+From: 02 July 2024 - To: 01 August 2024
 
 Total Time: 15 hrs 50 mins
 
