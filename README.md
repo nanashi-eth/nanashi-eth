@@ -59,8 +59,9 @@ nanashi = CSProfile(
 </p>
 
 <p align ="center">
-<img alt="Github Trophies" width=91% src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true&column=4&margin-w=15" />
-    <img  width=80% src="https://stats.dooboo.io/api/github-stats-advanced?login=nanashi-eth" width="550" />
+  <img alt="Github Trophies" width=91% src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true&column=4&margin-w=15" />
+  <br>
+  <img  width=80% src="https://stats.dooboo.io/api/github-stats-advanced?login=nanashi-eth" width="550" />
 </p>
 
 <br><br>
