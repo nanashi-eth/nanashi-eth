@@ -54,13 +54,13 @@ nanashi = CSProfile(
 
 <p align="center">
   <img alt="stats" height=200 src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117" />
-  <img alt="Github Stats" height=200 src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true&border_radius=0" />
+  <img alt="Github Stats" width="91%" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true&border_radius=0" />
   <img  alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nanashi-eth&theme=dracula&bg_color=0D1117&hide_border=true" width="91%" />
 </p>
 
 <p align ="center">
-    <img alt="Github Trophies" width=100% src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true" />
-    <img  width=100% src="https://stats.dooboo.io/api/github-stats-advanced?login=nanashi-eth" width="550" />
+<img alt="Github Trophies" width=91% src="https://github-profile-trophy.vercel.app/?username=nanashi-eth&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true&column=4&margin-w=15" />
+    <img  width=80% src="https://stats.dooboo.io/api/github-stats-advanced?login=nanashi-eth" width="550" />
 </p>
 
 <br><br>
@@ -119,11 +119,9 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <br><br>
 
-<p >
-  <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=550&count=3" />
-  <img width="550" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1164472761&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-
-  <pre align="center" width="1000"> 
+<h2>Skills</h2>
+<p align="center">
+<pre width=60%>
     <b>
       💼 Full stack Dev • Cybersecurity Specialist
       💻 System programming languages • DevOps
@@ -132,10 +130,16 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
       🐾 Luna & Ana  •  Curro  🦜
     </b>
   </pre>
+</p>
+
+<br><br>
+
+<p >
+  <img align="left" width=50% src="https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=550&count=3" />
+  <img width=50% height=110 src="https://novatorem-eight-xi.vercel.app/api/spotify?background_color=212121&border_color=ffffff00" />
 <p/>
 
-<br/>
-<br/>
+<br>
 
 <p align="center">
   <samp>
