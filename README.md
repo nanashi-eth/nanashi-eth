@@ -121,7 +121,7 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <h2>Beyond the Professional</h2>
 <p align="center">
-<pre width=60%>
+<pre align="center">
     <b>
       💼 Full stack Dev • Cybersecurity Specialist
       💻 System programming languages • DevOps
