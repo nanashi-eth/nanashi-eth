@@ -119,7 +119,7 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <br><br>
 
-<h2>Skills</h2>
+<h2>Beyond the Professional</h2>
 <p align="center">
 <pre width=60%>
     <b>
@@ -134,9 +134,9 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <br><br>
 
-<p >
-  <img align="left" width=50% src="https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=550&count=3" />
-  <img width=50% height=110 src="https://novatorem-eight-xi.vercel.app/api/spotify?background_color=212121&border_color=ffffff00" />
+<p align="center">
+  <img width=50% src="https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=550&count=3" />
+  <img width=50% src="https://novatorem-eight-xi.vercel.app/api/spotify?background_color=212121&border_color=ffffff00" />
 <p/>
 
 <br>
