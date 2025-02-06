@@ -105,15 +105,15 @@ nanashi = CSProfile(
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 January 2025 - To: 04 February 2025
+From: 06 January 2025 - To: 05 February 2025
 
-Total Time: 20 hrs 40 mins
+Total Time: 20 hrs 52 mins
 
-JavaScript    8 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.53 %
-CSS           6 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.43 %
-HTML          4 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
-SCSS          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-TypeScript    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+JavaScript    9 hrs 2 mins    ██████████▓░░░░░░░░░░░░░░   43.07 %
+CSS           6 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.16 %
+HTML          4 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+SCSS          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+TypeScript    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
