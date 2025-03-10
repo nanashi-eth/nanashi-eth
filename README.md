@@ -134,9 +134,11 @@ CSV          54 mins         █░░░░░░░░░░░░░░░░
   </pre>
 </p>
 
+
 <br><br>
 
 <p align="center">
+  <img width=50% src="https://github.com/user-attachments/assets/7de8a851-15d5-4f59-a590-4f51f4a897a0" />
   <img width=50% src="https://spotify-recently-played-readme.vercel.app/api?user=1164472761&width=550&count=3" />
   <img width=50% src="https://novatorem-eight-xi.vercel.app/api/spotify?background_color=212121&border_color=ffffff00" />
 <p/>
