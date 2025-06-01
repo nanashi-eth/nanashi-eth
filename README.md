@@ -105,7 +105,7 @@ nanashi = CSProfile(
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 April 2025 - To: 30 May 2025
+From: 01 May 2025 - To: 31 May 2025
 
 Total Time: 8 hrs 47 mins
 
