@@ -105,14 +105,14 @@ nanashi = CSProfile(
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 December 2025 - To: 29 January 2026
+From: 31 December 2025 - To: 30 January 2026
 
-Total Time: 8 hrs 29 mins
+Total Time: 8 hrs 11 mins
 
-JavaScript   4 hrs 22 mins   █████████████░░░░░░░░░░░░   51.51 %
-JSON         3 hrs 48 mins   ███████████▒░░░░░░░░░░░░░   44.81 %
-Python       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+JavaScript   4 hrs 4 mins    ████████████▒░░░░░░░░░░░░   49.72 %
+JSON         3 hrs 48 mins   ███████████▓░░░░░░░░░░░░░   46.46 %
+Python       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
