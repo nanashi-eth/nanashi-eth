@@ -55,7 +55,6 @@ nanashi = CSProfile(
 <p align="center">
   <img alt="stats" height=200 src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117" />
   <img alt="Github Stats" width="91%" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true&border_radius=0" />
-  <img  alt="graph" src="https://github-readme-activity-graph.vercel.app/data?username=nanashi-eth" width="91%" />
 </p>
 
 <p align ="center">
