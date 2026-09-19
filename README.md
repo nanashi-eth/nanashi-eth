@@ -55,11 +55,11 @@ nanashi = CSProfile(
 <p align="center">
   <img alt="stats" height=200 src="https://streak-stats.demolab.com?user=nanashi-eth&theme=dracula&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117" />
   <img alt="Github Stats" width="91%" src="https://github-readme-stats-beryl-zeta.vercel.app/api?username=nanashi-eth&hide=issues&show_icons=true&theme=dracula&border_radius=15&bg_color=0D1117&hide_border=true&border_radius=0" />
-  <img  alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nanashi-eth&theme=dracula&bg_color=0D1117&hide_border=true" width="91%" />
+  <img  alt="graph" src="https://github-readme-activity-graph.vercel.app/data?username=nanashi-eth" width="91%" />
 </p>
 
 <p align ="center">
-  <img alt="Github Trophies" width=91% src="https://trophygithubreadmelang.cybee.dpdns.org/?theme=dark&username=nanashi-eth&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true&column=4&margin-w=15" />
+  <img alt="Github Trophies" width=91% src="https://trophygithubreadmelang.cybee.dpdns.org/?username=nanashi-eth&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true&column=4&margin-w=15" />
   <br>
   <br>
   <img  width=80% src="https://stats.dooboo.io/api/github-stats-advanced?login=nanashi-eth" width="550" />
